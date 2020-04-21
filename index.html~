@@ -1,1 +1,7 @@
-Hello World
+<!DOCTYPE html>
+
+<h1>Hello World</h1>
+
+<a href="./myCPlusPlus.html">link to c++ generated file</a>
+
+<html>
